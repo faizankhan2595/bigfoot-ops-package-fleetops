@@ -28,7 +28,7 @@ fleet-ops:
     edit: Edit
     email: Email
     export: Export
-    fleet: Fleet
+    fleet: Departments
     height: Height
     host: Host
     id: ID
