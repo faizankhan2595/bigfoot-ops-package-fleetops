@@ -127,7 +127,7 @@ fleet-ops:
         scheduler: Scheduler
         drivers: Drivers
         vehicles: Vehicles
-        fleets: Fleets
+        fleets: Departments
         vendors: Vendors
         contacts: Contacts
         places: Places
