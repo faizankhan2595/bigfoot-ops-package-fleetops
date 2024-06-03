@@ -52,7 +52,7 @@ export default class LayoutFleetOpsSidebarComponent extends Component {
             },
             { title: this.intl.t('fleet-ops.component.layout.fleet-ops-sidebar.vehicles'), icon: 'truck', route: 'management.vehicles' },
             {
-                title: 'Departments',   
+                title: 'Departments',
                 icon: 'user-group',
                 route: 'management.fleets',
                 renderComponentInPlace: true,
