@@ -93,7 +93,7 @@ jobs:
       - name: Configure npm for GitHub registry
         run: |
           echo "@fleetbase:registry=https://npm.pkg.github.com/" >> ~/.npmrc
-          echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> ~/.npmrc
+          echo "//npm.pkg.github.com/:_authToken=${{ secrets._G_AUTH }}" >> ~/.npmrc
 
       - name: Publish to GitHub registry
         run: npm publish
