@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/vehicle-panel/tracking';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/vehicle-panel/tracking';

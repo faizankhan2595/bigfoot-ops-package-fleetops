@@ -1,5 +1,5 @@
 {
-    "name": "@fleetbase/fleetops-engine",
+    "name": "@yogesh.reddotapps/fleetops-engine",
     "version": "0.4.11",
     "description": "Fleet & Transport Management Extension for Fleetbase",
     "fleetbase": {

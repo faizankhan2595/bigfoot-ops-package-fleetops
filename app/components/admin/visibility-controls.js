@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/admin/visibility-controls';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/admin/visibility-controls';

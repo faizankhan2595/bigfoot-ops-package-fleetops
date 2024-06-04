@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/utils/is-latitude';
+export { default } from '@yogesh.reddotapps/fleetops-engine/utils/is-latitude';

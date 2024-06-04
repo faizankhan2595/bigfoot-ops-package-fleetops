@@ -1,1 +1,1 @@
-export { default, featureGroup } from '@fleetbase/fleetops-engine/helpers/feature-group';
+export { default, featureGroup } from '@yogesh.reddotapps/fleetops-engine/helpers/feature-group';

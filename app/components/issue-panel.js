@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/issue-panel';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/issue-panel';

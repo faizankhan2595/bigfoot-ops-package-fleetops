@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/controllers/application';
+export { default } from '@yogesh.reddotapps/fleetops-engine/controllers/application';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/leaflet-drift-marker';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/leaflet-drift-marker';

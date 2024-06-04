@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/live-map-drawer/vehicle-listing';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/live-map-drawer/vehicle-listing';

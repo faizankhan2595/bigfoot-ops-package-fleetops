@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/order-config/selector';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/order-config/selector';

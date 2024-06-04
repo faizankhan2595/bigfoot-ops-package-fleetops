@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/templates/management/places/index/edit';
+export { default } from '@yogesh.reddotapps/fleetops-engine/templates/management/places/index/edit';

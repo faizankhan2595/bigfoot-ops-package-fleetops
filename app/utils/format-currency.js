@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/utils/format-currency';
+export { default } from '@yogesh.reddotapps/fleetops-engine/utils/format-currency';

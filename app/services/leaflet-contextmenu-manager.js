@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/services/leaflet-contextmenu-manager';
+export { default } from '@yogesh.reddotapps/fleetops-engine/services/leaflet-contextmenu-manager';
