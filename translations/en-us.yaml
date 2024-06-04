@@ -28,7 +28,7 @@ fleet-ops:
     edit: Edit
     email: Email
     export: Export
-    fleet: Fleet
+    fleet: Departments
     height: Height
     host: Host
     id: ID
@@ -51,7 +51,7 @@ fleet-ops:
     odometer: Odometer
     options: Options
     orders: Orders
-    parent-fleet: Parent Fleet
+    parent-fleet: Parent Department
     phone: Phone
     photos: photos
     plate-number: Plate number
@@ -239,7 +239,7 @@ fleet-ops:
       entity-meta-field-prompt:
         name: Meta Field Key
       fleet-form:
-        title: Fleet Name
+        title: Department  Name
         assign: Assign to Service Area
         assign-text: Select service area to assign fleet to
         zone: Assign to Zone
@@ -613,15 +613,15 @@ fleet-ops:
       add-driver: Add driver to fleet
       loading-message: Loading fleet drivers...
     fleet-form-panel:
-      success-message: Fleet ({fleetName}) saved successfully.
-      title: New Fleet
-      save-fleet: Save Fleet
-      create-fleet: Create Fleet
+      success-message: Department ({fleetName}) saved successfully.
+      title: New Department
+      save-fleet: Save Department
+      create-fleet: Create Department
       view-details: View fleet details
       cancel-edit-fleet: Cancel edit fleet
       cancel-new-fleet: Cancel new fleet
-      fleet-name: Fleet Name
-      parent-fleet: Parent Fleet
+      fleet-name: Department Name
+      parent-fleet: Parent Department
       select-parent-fleet: Select parent fleet to assign fleet to
       select-vendor: Select vendor to assign fleet to
       service-title: Assign to Service Area
@@ -723,10 +723,10 @@ fleet-ops:
       delete-vehicle: 'Delete vehicle: {vehicleName}'
       edit-zone: 'Edit zone: {zoneName}'
       delete-zone: 'Delete zone: {zoneName}'
-      assign-zone: 'Assign Fleet to Zone: {zoneName}'
+      assign-zone: 'Assign Department to Zone: {zoneName}'
       blur-service: 'Blur Service Area: {serviceName}'
       create-zone: 'Create Zone within: {serviceName}'
-      assign-fleet: 'Assign Fleet to Service Area: {serviceName}'
+      assign-fleet: 'Assign Department to Service Area: {serviceName}'
       edit-service: 'Edit Service Area: {serviceName}'
       delete-service: 'Delete Service Area: {serviceName}'
       service-area: Service Area

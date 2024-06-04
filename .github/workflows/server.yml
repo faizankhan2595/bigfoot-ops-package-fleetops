@@ -29,7 +29,7 @@ jobs:
         sudo apt-get install -y libzip-dev libgd-dev libfreetype6-dev libjpeg-dev libpng-dev imagemagick libmagickwand-dev libmemcached-dev libgeos-dev libgmp-dev default-mysql-client libicu-dev
       
     - name: Configure Composer Auth for Github
-      run: composer config --global github-oauth.github.com ${{ secrets._GITHUB_AUTH_TOKEN }}
+      run: composer config --global github-oauth.github.com ${{ secrets._G_AUTH }}
 
     - name: Validate composer.json and composer.lock
       run: composer validate
