@@ -24,7 +24,7 @@ module.exports = function (environment) {
 function getMountedEngineRoutePrefix() {
     let mountedEngineRoutePrefix = 'fleet-ops';
     if (fleetbase && typeof fleetbase.route === 'string') {
-        mountedEngineRoutePrefix = fleetbase.route;
+        // mountedEngineRoutePrefix = fleetbase.route;
     }
 
     return `console.${mountedEngineRoutePrefix}.`;
