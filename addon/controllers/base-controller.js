@@ -26,6 +26,6 @@ export default class BaseController extends Controller {
      * this.transitionToRoute('management.fleets.index.new');
      */
     @action transitionToRoute(route, ...args) {
-        return this.universe.transitionToEngineRoute('@fleetbase/fleetops-engine', route, ...args);
+        return this.universe.transitionToEngineRoute('@yogesh.reddotapps/fleetops-engine', route, ...args);
     }
 }

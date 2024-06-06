@@ -7,7 +7,7 @@ import { calculateInPlacePosition } from 'ember-basic-dropdown/utils/calculate-p
 /**
  * @class MapContainerToolbarVisibilityControlPanelComponent
  * @extends {Component}
- * @memberof @fleetbase/fleetops-engine
+ * @memberof @yogesh.reddotapps/fleetops-engine
  */
 export default class MapContainerToolbarVisibilityControlPanelComponent extends Component {
     /**

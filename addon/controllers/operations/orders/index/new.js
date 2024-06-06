@@ -319,7 +319,7 @@ export default class OperationsOrdersIndexNewController extends BaseController {
                     this.universe.trigger('fleet-ops.order.created', order);
 
                     // get engine route prefix
-                    let engineMountPoint = this.universe.getEngineMountPoint('@fleetbase/fleetops-engine');
+                    let engineMountPoint = this.universe.getEngineMountPoint('@yogesh.reddotapps/fleetops-engine');
 
                     if (!engineMountPoint.endsWith('.')) {
                         engineMountPoint = engineMountPoint + '.';

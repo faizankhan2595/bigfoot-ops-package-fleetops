@@ -64,7 +64,7 @@ composer require fleetbase/fleetops-api
 Install the Ember.js Engine/Addon:
 
 ```bash
-pnpm install @fleetbase/fleetops-engine
+pnpm install @yogesh.reddotapps/fleetops-engine
 ```
 
 ## Usage
