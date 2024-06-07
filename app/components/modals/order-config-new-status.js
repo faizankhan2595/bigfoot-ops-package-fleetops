@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/modals/order-config-new-status';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/modals/order-config-new-status';

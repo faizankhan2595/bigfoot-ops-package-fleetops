@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/templates/virtual';
+export { default } from '@yogesh.reddotapps/fleetops-engine/templates/virtual';

@@ -1,1 +1,1 @@
-export { default, avatarUrl } from '@fleetbase/fleetops-engine/helpers/avatar-url';
+export { default, avatarUrl } from '@yogesh.reddotapps/fleetops-engine/helpers/avatar-url';

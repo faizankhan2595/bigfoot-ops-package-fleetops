@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/split-grid';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/split-grid';

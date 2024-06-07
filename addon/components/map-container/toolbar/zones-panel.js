@@ -10,7 +10,7 @@ import { task } from 'ember-concurrency-decorators';
 /**
  * @class MapContainerToolbarZonesPanelComponent
  * @extends {Component}
- * @memberof @fleetbase/fleetops-engine
+ * @memberof @yogesh.reddotapps/fleetops-engine
  */
 export default class MapContainerToolbarZonesPanelComponent extends Component {
     /**

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/modals/driver-assign-vehicle';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/modals/driver-assign-vehicle';

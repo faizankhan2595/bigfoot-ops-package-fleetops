@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/components/layout/fleet-ops-sidebar/fleet-listing';
+export { default } from '@yogesh.reddotapps/fleetops-engine/components/layout/fleet-ops-sidebar/fleet-listing';

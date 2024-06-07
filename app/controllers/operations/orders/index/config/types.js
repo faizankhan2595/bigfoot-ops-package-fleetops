@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/fleetops-engine/controllers/operations/orders/index/config/types';
+export { default } from '@yogesh.reddotapps/fleetops-engine/controllers/operations/orders/index/config/types';

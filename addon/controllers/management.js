@@ -1,3 +1,3 @@
-import BaseController from '@fleetbase/fleetops-engine/controllers/base-controller';
+import BaseController from '@yogesh.reddotapps/fleetops-engine/controllers/base-controller';
 
 export default class ManagementController extends BaseController {}

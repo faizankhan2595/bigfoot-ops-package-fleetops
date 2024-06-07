@@ -11,21 +11,21 @@ export default class BaseController extends Controller {
     @service universe;
 
     /**
-     * Transitions to a specified route within the '@fleetbase/fleetops-engine' engine.
+     * Transitions to a specified route within the '@yogesh.reddotapps/fleetops-engine' engine.
      *
      * This action is a wrapper around the `transitionToEngineRoute` method of the `universe` service (or object),
-     * specifically targeting the '@fleetbase/fleetops-engine'. It allows for easy transitioning to routes
+     * specifically targeting the '@yogesh.reddotapps/fleetops-engine'. It allows for easy transitioning to routes
      * within this engine, abstracting away the need to repeatedly specify the engine name.
      *
-     * @param {string} route - The route within the '@fleetbase/fleetops-engine' to transition to.
+     * @param {string} route - The route within the '@yogesh.reddotapps/fleetops-engine' to transition to.
      * @param {...any} args - Additional arguments to pass to the transitionToEngineRoute method.
      * @returns {Promise} A Promise that resolves with the result of the transitionToEngineRoute method.
      *
      * @example
-     * // To transition to the 'management.fleets.index.new' route within the '@fleetbase/fleetops-engine'
+     * // To transition to the 'management.fleets.index.new' route within the '@yogesh.reddotapps/fleetops-engine'
      * this.transitionToRoute('management.fleets.index.new');
      */
     @action transitionToRoute(route, ...args) {
-        return this.universe.transitionToEngineRoute('@fleetbase/fleetops-engine', route, ...args);
+        return this.universe.transitionToEngineRoute('@yogesh.reddotapps/fleetops-engine', route, ...args);
     }
 }
