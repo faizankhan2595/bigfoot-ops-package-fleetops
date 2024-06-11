@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/vendor-panel';
+export { default } from 'fleetops-engine/components/vendor-panel';

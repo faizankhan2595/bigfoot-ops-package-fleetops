@@ -1,4 +1,4 @@
-import BaseController from '@yogesh.reddotapps/fleetops-engine/controllers/base-controller';
+import BaseController from 'fleetops-engine/controllers/base-controller';
 import { inject as controller } from '@ember/controller';
 import { inject as service } from '@ember/service';
 import { tracked } from '@glimmer/tracking';

@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/routes/management/contacts/index/edit';
+export { default } from 'fleetops-engine/routes/management/contacts/index/edit';

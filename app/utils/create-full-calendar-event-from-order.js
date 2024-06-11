@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/utils/create-full-calendar-event-from-order';
+export { default } from 'fleetops-engine/utils/create-full-calendar-event-from-order';

@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/layout/fleet-ops-sidebar/driver-listing';
+export { default } from 'fleetops-engine/components/layout/fleet-ops-sidebar/driver-listing';

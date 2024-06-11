@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/event-timeline/event';
+export { default } from 'fleetops-engine/components/event-timeline/event';

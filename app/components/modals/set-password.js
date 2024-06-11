@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/modals/set-password';
+export { default } from 'fleetops-engine/components/modals/set-password';

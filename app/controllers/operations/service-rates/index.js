@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/controllers/operations/service-rates/index';
+export { default } from 'fleetops-engine/controllers/operations/service-rates/index';

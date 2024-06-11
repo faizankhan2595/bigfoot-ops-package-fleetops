@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/utils/calculate-percentage';
+export { default } from 'fleetops-engine/utils/calculate-percentage';

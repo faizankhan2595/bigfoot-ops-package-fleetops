@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/map-container/toolbar-container';
+export { default } from 'fleetops-engine/components/map-container/toolbar-container';

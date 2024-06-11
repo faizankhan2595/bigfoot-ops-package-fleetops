@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/modals/clone-config-form';
+export { default } from 'fleetops-engine/components/modals/clone-config-form';

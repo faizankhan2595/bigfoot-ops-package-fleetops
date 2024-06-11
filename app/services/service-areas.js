@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/services/service-areas';
+export { default } from 'fleetops-engine/services/service-areas';

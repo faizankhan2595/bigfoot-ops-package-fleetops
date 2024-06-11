@@ -1,1 +1,1 @@
-export { default, isWaypointRecord } from '@yogesh.reddotapps/fleetops-engine/helpers/is-waypoint-record';
+export { default, isWaypointRecord } from 'fleetops-engine/helpers/is-waypoint-record';

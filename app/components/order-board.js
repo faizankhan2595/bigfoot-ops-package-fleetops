@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/order-board';
+export { default } from 'fleetops-engine/components/order-board';

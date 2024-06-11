@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/contact-panel';
+export { default } from 'fleetops-engine/components/contact-panel';

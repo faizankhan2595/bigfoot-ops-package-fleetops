@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/modals/service-area-form';
+export { default } from 'fleetops-engine/components/modals/service-area-form';

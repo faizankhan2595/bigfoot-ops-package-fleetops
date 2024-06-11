@@ -1,1 +1,1 @@
-export { default, getTipAmount } from '@yogesh.reddotapps/fleetops-engine/helpers/get-tip-amount';
+export { default, getTipAmount } from 'fleetops-engine/helpers/get-tip-amount';

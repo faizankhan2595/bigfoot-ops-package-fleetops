@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/modals/fuel-report-form';
+export { default } from 'fleetops-engine/components/modals/fuel-report-form';

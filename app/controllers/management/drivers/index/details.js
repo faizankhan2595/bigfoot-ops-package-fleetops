@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/controllers/management/drivers/index/details';
+export { default } from 'fleetops-engine/controllers/management/drivers/index/details';

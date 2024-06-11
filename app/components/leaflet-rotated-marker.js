@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/leaflet-rotated-marker';
+export { default } from 'fleetops-engine/components/leaflet-rotated-marker';

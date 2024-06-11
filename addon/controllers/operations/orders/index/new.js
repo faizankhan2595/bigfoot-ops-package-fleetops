@@ -1,4 +1,4 @@
-import BaseController from '@yogesh.reddotapps/fleetops-engine/controllers/base-controller';
+import BaseController from 'fleetops-engine/controllers/base-controller';
 import { inject as controller } from '@ember/controller';
 import { inject as service } from '@ember/service';
 import { tracked } from '@glimmer/tracking';
@@ -319,7 +319,7 @@ export default class OperationsOrdersIndexNewController extends BaseController {
                     this.universe.trigger('fleet-ops.order.created', order);
 
                     // get engine route prefix
-                    let engineMountPoint = this.universe.getEngineMountPoint('@yogesh.reddotapps/fleetops-engine');
+                    let engineMountPoint = this.universe.getEngineMountPoint('fleetops-engine');
 
                     if (!engineMountPoint.endsWith('.')) {
                         engineMountPoint = engineMountPoint + '.';

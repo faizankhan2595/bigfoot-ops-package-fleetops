@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/utils/apply-context-component-arguments';
+export { default } from 'fleetops-engine/utils/apply-context-component-arguments';

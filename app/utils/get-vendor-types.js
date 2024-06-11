@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/utils/get-vendor-types';
+export { default } from 'fleetops-engine/utils/get-vendor-types';

@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/utils/to-model';
+export { default } from 'fleetops-engine/utils/to-model';

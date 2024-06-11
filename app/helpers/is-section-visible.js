@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/helpers/is-section-visible';
+export { default } from 'fleetops-engine/helpers/is-section-visible';

@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/modifiers/translate-x';
+export { default } from 'fleetops-engine/modifiers/translate-x';

@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/settings-window';
+export { default } from 'fleetops-engine/components/settings-window';

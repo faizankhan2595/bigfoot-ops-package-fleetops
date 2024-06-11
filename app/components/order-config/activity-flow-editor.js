@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/order-config/activity-flow-editor';
+export { default } from 'fleetops-engine/components/order-config/activity-flow-editor';

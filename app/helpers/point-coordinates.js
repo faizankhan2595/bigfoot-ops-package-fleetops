@@ -1,1 +1,1 @@
-export { default, pointCoordinates } from '@yogesh.reddotapps/fleetops-engine/helpers/point-coordinates';
+export { default, pointCoordinates } from 'fleetops-engine/helpers/point-coordinates';

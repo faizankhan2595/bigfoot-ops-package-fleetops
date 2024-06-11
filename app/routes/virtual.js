@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/routes/virtual';
+export { default } from 'fleetops-engine/routes/virtual';

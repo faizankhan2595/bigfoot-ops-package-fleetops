@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/utils/fly-to-leaflet-layer';
+export { default } from 'fleetops-engine/utils/fly-to-leaflet-layer';

@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/driver-panel/details';
+export { default } from 'fleetops-engine/components/driver-panel/details';

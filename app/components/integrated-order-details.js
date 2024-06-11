@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/integrated-order-details';
+export { default } from 'fleetops-engine/components/integrated-order-details';

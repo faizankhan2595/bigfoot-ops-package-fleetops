@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/modals/place-form';
+export { default } from 'fleetops-engine/components/modals/place-form';

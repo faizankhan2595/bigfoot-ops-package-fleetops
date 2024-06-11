@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/utils/layer-can-bind-contextmenu';
+export { default } from 'fleetops-engine/utils/layer-can-bind-contextmenu';

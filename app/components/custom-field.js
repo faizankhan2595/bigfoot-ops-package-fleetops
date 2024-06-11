@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/custom-field';
+export { default } from 'fleetops-engine/components/custom-field';

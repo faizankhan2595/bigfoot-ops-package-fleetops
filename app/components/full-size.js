@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/full-size';
+export { default } from 'fleetops-engine/components/full-size';

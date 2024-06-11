@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/cell/driver-name';
+export { default } from 'fleetops-engine/components/cell/driver-name';

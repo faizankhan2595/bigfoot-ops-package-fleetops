@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/templates/home';
+export { default } from 'fleetops-engine/templates/home';

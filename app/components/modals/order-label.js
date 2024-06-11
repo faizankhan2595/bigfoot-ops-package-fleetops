@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/modals/order-label';
+export { default } from 'fleetops-engine/components/modals/order-label';

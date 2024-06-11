@@ -1,4 +1,4 @@
-import BaseController from '@yogesh.reddotapps/fleetops-engine/controllers/base-controller';
+import BaseController from 'fleetops-engine/controllers/base-controller';
 import { action } from '@ember/object';
 
 export default class OperationsOrdersIndexConfigController extends BaseController {

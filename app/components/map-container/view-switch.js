@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/map-container/view-switch';
+export { default } from 'fleetops-engine/components/map-container/view-switch';

@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/live-map';
+export { default } from 'fleetops-engine/components/live-map';

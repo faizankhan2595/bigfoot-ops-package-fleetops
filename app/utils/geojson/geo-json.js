@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/utils/geojson/geo-json';
+export { default } from 'fleetops-engine/utils/geojson/geo-json';

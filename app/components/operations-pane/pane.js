@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/operations-pane/pane';
+export { default } from 'fleetops-engine/components/operations-pane/pane';

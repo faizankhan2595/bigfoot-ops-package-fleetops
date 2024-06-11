@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/vendor-form-panel/create-form';
+export { default } from 'fleetops-engine/components/vendor-form-panel/create-form';

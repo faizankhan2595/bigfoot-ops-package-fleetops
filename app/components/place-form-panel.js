@@ -1,1 +1,1 @@
-export { default } from '@yogesh.reddotapps/fleetops-engine/components/place-form-panel';
+export { default } from 'fleetops-engine/components/place-form-panel';
