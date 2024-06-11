@@ -325,9 +325,9 @@ fleet-ops:
         customer: Customer
         customer-text: Optionally assign the customer of this order. If it's a new customer, use the 'New Customer' button above.
         select-customer: Select Customer
-        facilitator: Facilitator
-        facilitator-text: Optionally assign a facilitator for this order, a facilitator can be a 3rd party subcontractor or service that will facilitate the transport of this order.
-        select-facilitator: Select Facilitator
+        facilitator: Coordinator
+        facilitator-text: Optionally assign a Coordinator for this order, a Coordinator can be a 3rd party subcontractor or service that will facilitate the transport of this order.
+        select-facilitator: Select Coordinator
         assign-driver: Assign Driver
         assign-driver-text: Assign the driver this order will be dispatched to.
         select-driver: Select Driver
@@ -1048,7 +1048,7 @@ fleet-ops:
       index:
         payload: Payload
         customer: Customer
-        facilitator: Facilitator
+        facilitator: Coordinator
         pickup: Pickup
         dropoff: Dropoff
         scheduled-at: Scheduled At
@@ -1073,7 +1073,7 @@ fleet-ops:
         delete-orders: Delete Orders
         new:
           create-new-customer: Create new customer
-          create-new-facilitator: Create new facilitator
+          create-new-facilitator: Create new Coordinator
           create-new-place: Create new place
           add-order: Add entity to order
           edit-order: Edit order metadata
@@ -1088,9 +1088,9 @@ fleet-ops:
           customer: Customer
           customer-help-text: Optionally assign the customer of this order. If it's a new customer, use the 'New Customer' button above.
           customer-placeholder: Select Customer
-          facilitator: Facilitator
-          facilitator-help-text: Optionally assign a facilitator for this order, a facilitator can be a 3rd party subcontractor or service that will facilitate the transport of this order.
-          facilitator-placeholder: Select Facilitator
+          facilitator: Coordinator
+          facilitator-help-text: Optionally assign a Coordinator for this order, a Coordinator can be a 3rd party subcontractor or service that will facilitate the transport of this order.
+          facilitator-placeholder: Select Coordinator
           service-type: Service Type
           service-type-placeholder: Select service Type
           service-type-help-text: Select the service type you wish to use for 
@@ -1180,7 +1180,7 @@ fleet-ops:
           unable-load-order-activity: Unable to load order activity
           ad-hoc: Ad-Hoc
           customer: Customer
-          facilitator: Facilitator
+          facilitator: Coordinator
           driver-assigned: Driver Assigned
           change-driver: Change Driver
           tracking-number: Tracking Number
