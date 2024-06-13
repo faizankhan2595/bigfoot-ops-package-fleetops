@@ -193,6 +193,10 @@
                     <div class="field-name">{{t "fleet-ops.operations.orders.index.view.date-started"}}</div>
                     <div class="field-value">{{n-a @model.startedAt}}</div>
                 </div>
+                <div class="field-info-container space-y-2">
+                    <div class="field-name">{{t "fleet-ops.operations.orders.index.view.quantity"}}</div>
+                    <div class="field-value">{{n-a @model.quantity}}</div>
+                </div>
                 {{#if @model.pod_required}}
                     <div class="field-info-container space-y-2">
                         <div class="field-name">{{t "fleet-ops.operations.orders.index.view.proof-of-delivery"}}</div>

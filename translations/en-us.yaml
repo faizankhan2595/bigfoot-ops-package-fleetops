@@ -1179,6 +1179,7 @@ fleet-ops:
           cancel-order: Cancel Order
           delete-order: Delete Order
           activity: Activity
+          quantity: Quantity
           unable-load-order-activity: Unable to load order activity
           ad-hoc: Ad-Hoc
           customer: Customer
