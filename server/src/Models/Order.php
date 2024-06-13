@@ -108,7 +108,6 @@ class Order extends Model
         'status',
         'quantity',
 
-
     ];
 
     /**

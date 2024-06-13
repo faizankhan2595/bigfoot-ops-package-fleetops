@@ -42,7 +42,7 @@ class OrderController extends Controller
     public function create(CreateOrderRequest $request)
     {
         // get request input
-        $input = $request->only(['internal_id', 'payload', 'service_quote', 'purchase_rate', 'adhoc', 'adhoc_distance', 'pod_method', 'pod_required', 'scheduled_at', 'type', 'status', 'meta', 'notes']);
+        $input = $request->only(['internal_id','quantity', 'payload', 'service_quote', 'purchase_rate', 'adhoc', 'adhoc_distance', 'pod_method', 'pod_required', 'scheduled_at', 'type', 'status', 'meta', 'notes']);
 
         // make sure company is set
         $input['company_uuid'] = session('company');
