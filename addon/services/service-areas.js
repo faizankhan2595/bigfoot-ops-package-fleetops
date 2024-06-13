@@ -5,10 +5,10 @@ import { action } from '@ember/object';
 import { isArray } from '@ember/array';
 import { dasherize } from '@ember/string';
 import { later } from '@ember/runloop';
-import GeoJson from '@fleetbase/fleetops-data/utils/geojson/geo-json';
-import MultiPolygon from '@fleetbase/fleetops-data/utils/geojson/multi-polygon';
-import Polygon from '@fleetbase/fleetops-data/utils/geojson/polygon';
-import FeatureCollection from '@fleetbase/fleetops-data/utils/geojson/feature-collection';
+import GeoJson from '@yogeshsahu/fleetops-data/utils/geojson/geo-json';
+import MultiPolygon from '@yogeshsahu/fleetops-data/utils/geojson/multi-polygon';
+import Polygon from '@yogeshsahu/fleetops-data/utils/geojson/polygon';
+import FeatureCollection from '@yogeshsahu/fleetops-data/utils/geojson/feature-collection';
 
 export default class ServiceAreasService extends Service {
     /**

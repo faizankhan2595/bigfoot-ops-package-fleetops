@@ -6,7 +6,7 @@ import { isArray } from '@ember/array';
 import contextComponentCallback from '../utils/context-component-callback';
 import applyContextComponentArguments from '../utils/apply-context-component-arguments';
 import getRoutingHost from '@fleetbase/ember-core/utils/get-routing-host';
-import Point from '@fleetbase/fleetops-data/utils/geojson/point';
+import Point from '@yogeshsahu/fleetops-data/utils/geojson/point';
 import findClosestWaypoint from '@fleetbase/ember-core/utils/find-closest-waypoint';
 
 export default class EditOrderRoutePanelComponent extends Component {

@@ -4,7 +4,7 @@ import { inject as service } from '@ember/service';
 import { action } from '@ember/object';
 import contextComponentCallback from '../utils/context-component-callback';
 import applyContextComponentArguments from '../utils/apply-context-component-arguments';
-import Point from '@fleetbase/fleetops-data/utils/geojson/point';
+import Point from '@yogeshsahu/fleetops-data/utils/geojson/point';
 
 export default class VehicleFormPanelComponent extends Component {
     /**

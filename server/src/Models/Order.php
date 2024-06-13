@@ -106,6 +106,9 @@ class Order extends Model
         'notes',
         'type',
         'status',
+        'quantity',
+
+
     ];
 
     /**

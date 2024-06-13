@@ -1083,6 +1083,8 @@ fleet-ops:
           order-type-placeholder: Select Order Type
           internal-id: Internal ID
           internal-id-help-text: Use this field to optionally set a custom identifier or internal identifier for the order.
+          quantity: Quantity
+          quantity-help-text: Use this field to optionally set a Quantity for the order.
           schedule: Schedule
           schedule-help-text: The date and time the order will be dispatched. If no driver is assigned at time of dispatch, the dispatch will fail. If the order is Ad-Hoc the order will be pinged to drivers in vicinity of pickup.
           customer: Customer

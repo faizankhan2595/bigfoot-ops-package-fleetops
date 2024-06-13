@@ -179,7 +179,11 @@
                         </div>
                     </ModelSelect>
                 </InputGroup>
-
+                <InputGroup
+                    @name={{t "fleet-ops.operations.orders.index.new.quantity"}}
+                    @value={{this.order.quantity}}
+                    @helpText={{t "fleet-ops.operations.orders.index.new.quantity-help-text"}}
+                />
                 {{#if (and this.order.pod_required (not this.isUsingIntegratedVendor))}}
                     <InputGroup>
                         <InputLabel
