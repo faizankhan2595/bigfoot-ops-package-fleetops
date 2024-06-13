@@ -1,6 +1,6 @@
 {
     "name": "@yogeshsahu/fleetops-engine",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Fleet & Transport Management Extension for Fleetbase",
     "fleetbase": {
         "route": "fleet-ops"
