@@ -111,6 +111,8 @@ class Vehicle extends Model
         'status',
         'online',
         'slug',
+        'gps',
+        'erp'
     ];
 
     /**

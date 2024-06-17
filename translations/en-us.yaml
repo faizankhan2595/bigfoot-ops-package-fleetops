@@ -865,6 +865,8 @@ fleet-ops:
       cancel-new-vehicle: Cancel new vehicle
       upload-photo: Upload new photo
       new-vehicle: New Vehicle
+      gps-no: GPS No.
+      erp-no: ERP No.  
       not-assigned: No driver assigned
       plate-number: Plate Number
       vin-number: VIN Number

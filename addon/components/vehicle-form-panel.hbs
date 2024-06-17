@@ -116,6 +116,13 @@
                     <InputGroup @name={{t "fleet-ops.component.vehicle-form-panel.year"}}>
                         <Input @value={{this.vehicle.year}} @type="text" class="w-full form-input" placeholder={{t "fleet-ops.component.vehicle-form-panel.vehicle-year"}} />
                     </InputGroup>
+                    <InputGroup @name={{t "fleet-ops.component.vehicle-form-panel.gps-no"}}>
+                        <Input @value={{this.vehicle.gps}} @type="text" class="w-full form-input" placeholder={{t "fleet-ops.component.vehicle-form-panel.gps-no"}} />
+                    </InputGroup>
+
+                    <InputGroup @name={{t "fleet-ops.component.vehicle-form-panel.erp-no"}}>
+                        <Input @value={{this.vehicle.erp}} @type="text" class="w-full form-input" placeholder={{t "fleet-ops.component.vehicle-form-panel.erp-no"}} />
+                    </InputGroup>
 
                     <InputGroup @name={{t "fleet-ops.component.vehicle-form-panel.driver-assigned"}}>
                         <ModelSelect
