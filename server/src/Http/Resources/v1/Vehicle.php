@@ -41,6 +41,8 @@ class Vehicle extends FleetbaseResource
             'online'                 => $this->online,
             'gps'                 => $this->gps,
             'erp'                 => $this->erp,
+            'test'                 => "true",
+
             'location'               => data_get($this, 'location', new Point(0, 0)),
             'heading'                => (int) data_get($this, 'heading', 0),
             'altitude'               => (int) data_get($this, 'altitude', 0),
