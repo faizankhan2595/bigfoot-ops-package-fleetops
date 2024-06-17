@@ -39,6 +39,8 @@ class Vehicle extends FleetbaseResource
             'vin_data'               => $this->vin_data,
             'status'                 => $this->status,
             'online'                 => $this->online,
+            'gps'                 => $this->gps,
+            'erp'                 => $this->erp,
             'location'               => data_get($this, 'location', new Point(0, 0)),
             'heading'                => (int) data_get($this, 'heading', 0),
             'altitude'               => (int) data_get($this, 'altitude', 0),

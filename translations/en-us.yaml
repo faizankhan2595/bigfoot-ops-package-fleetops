@@ -55,6 +55,8 @@ fleet-ops:
     phone: Phone
     photos: photos
     plate-number: Plate number
+    gps-no: GPS No.
+    erp-no: ERP No.  
     postal-code: Postal code
     priority: Priority
     reload: Reload
