@@ -100,7 +100,7 @@ class VehicleController extends Controller
         }
 
         // get request input
-        $input = $request->only(['status', 'make', 'model', 'year', 'trim', 'type', 'plate_number', 'vin', 'meta', 'location', 'online', 'altitude', 'heading', 'speed']);
+        $input = $request->only(['status', 'make', 'model', 'year', 'trim', 'type', 'plate_number', 'vin', 'meta', 'location', 'online', 'altitude', 'heading', 'speed','gps','erp']);
 
         // vendor assignment
         if ($request->has('vendor')) {
