@@ -51,6 +51,7 @@ export default class LayoutFleetOpsSidebarComponent extends Component {
                 component: DriverListingComponent,
             },
             { title: this.intl.t('fleet-ops.component.layout.fleet-ops-sidebar.vehicles'), icon: 'truck', route: 'management.vehicles' },
+            { title: this.intl.t('fleet-ops.component.layout.fleet-ops-sidebar.person-in-charge'), icon: 'user-group', route: 'management.person-in-charge' },
             {
                 title: this.intl.t('fleet-ops.component.layout.fleet-ops-sidebar.fleets'),
                 icon: 'user-group',

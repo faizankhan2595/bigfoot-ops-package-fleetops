@@ -51,6 +51,13 @@ export default buildRoutes(function () {
                 this.route('edit', { path: '/edit/:public_id' });
             });
         });
+        this.route('person-in-charge', function () {
+            this.route('index', { path: '/' }, function () {
+                this.route('new');
+                this.route('details', { path: '/:public_id' });
+                this.route('edit', { path: '/edit/:public_id' });
+            });
+        });
         this.route('places', function () {
             this.route('index', { path: '/' }, function () {
                 this.route('new');
