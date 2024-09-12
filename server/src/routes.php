@@ -44,6 +44,9 @@ Route::prefix(config('fleetops.api.routing.prefix', null))->namespace('Fleetbase
                     $router->put('{id}', 'DriverController@update');
                     $router->delete('{id}', 'DriverController@delete');
                 });
+                $router->group(['prefix' => 'person-in-charges'], function () use ($router) {
+                    $router->get('/', 'PersonInChargeController@query');
+                });
                 // contacts routes
                 $router->group(['prefix' => 'contacts'], function () use ($router) {
                     $router->post('/', 'ContactController@create');
