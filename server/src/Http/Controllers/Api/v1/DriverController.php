@@ -431,7 +431,7 @@ class DriverController extends Controller
         try {
             VerificationCode::generateSmsVerificationFor($user, 'driver_login', [
                 'messageCallback' => function ($verification) use ($company) {
-                    return 'Your ' . data_get($company, 'name', config('app.name')) . ' verification code is ' . $verification->code;
+                    return 'Sent from your Twilio trial account - Your ' . data_get($company, 'name', config('app.name')) . ' verification code is ' . $verification->code;
                 },
             ]);
         } catch (\Throwable $e) {
